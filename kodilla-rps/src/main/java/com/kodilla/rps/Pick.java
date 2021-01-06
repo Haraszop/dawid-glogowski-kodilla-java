@@ -1,2 +1,5 @@
-package com.kodilla.rps;public class Pick {
+package com.kodilla.rps;
+
+public interface Pick {
+    String getPickName();
 }

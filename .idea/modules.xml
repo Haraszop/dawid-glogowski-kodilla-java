@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-stream.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-stream.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/kodilla-rps.iml" filepath="$PROJECT_DIR$/.idea/modules/kodilla-rps.iml" />
     </modules>
   </component>
 </project>
